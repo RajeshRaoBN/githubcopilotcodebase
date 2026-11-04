@@ -1,0 +1,5 @@
+Write a JavaScript function that tells me if a number is prime
+
+The function should take an integer and return true if the integer is prime
+
+The function should error if the input is not a positive integer

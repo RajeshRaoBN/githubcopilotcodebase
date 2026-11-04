@@ -1,1 +1,4 @@
 # githubcopilotcodebase
+
+copilot --version
+copilot
